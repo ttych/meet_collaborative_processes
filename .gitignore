@@ -1,0 +1,5 @@
+/Gemfile.lock
+
+/_site
+/httpd.pid
+/build.pid
